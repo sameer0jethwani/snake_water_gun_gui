@@ -1,4 +1,3 @@
-# snake_water_gun_gui
 from PIL import Image,ImageTk
 import requests
 from io import BytesIO
